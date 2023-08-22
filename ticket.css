@@ -1,0 +1,327 @@
+.headline {
+    width: 100%;
+    height: 50vh;
+    min-height: 200px;
+    background:  url('image/bgimage4.jpg');
+    background-size: cover;
+    flex-direction: column;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    color: #101010;
+    text-align: center;
+}
+
+.image{
+    background-color:#699e93;
+    width: 100%;
+   
+   
+
+}
+.main{
+    border: 4px solid black;
+    border-radius: 10px;
+    width: 900px;
+    height: 1050px;
+    margin-left: 300px;
+}
+.style {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 280px;
+    height: 250px;
+    text-align: center;
+    border-radius: 10px;
+   margin-left: 300px;
+
+}
+
+.main1{
+  font-size: 60px;
+  
+}
+.age {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 700px;
+    height: 400px;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: #101010;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.new {
+    font-size: 30px;
+}
+.one {
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 700px;
+    height: 300px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 80px;
+    font-size: 20px;
+
+}
+.bff {
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #101010;
+    text-align: center;
+    
+}
+
+.dddd{
+    font-size: 30px;
+}
+.aaaa{
+    background-color: rgb(218, 217, 217);
+}
+.table,.th,tr{
+    font-size: 25px;
+    background-color: white;
+}
+.para{
+    font-size: 30px;
+    font-family: 'Roboto', sans-serif;
+    color: #101010;
+    margin-left: 150px;
+}
+
+.two{
+    border-radius: 10px;
+    margin-left: 390px;
+}
+.button{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    height: 60px;
+    background-color:rgb(25, 167, 94);
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 550px;
+}
+.three{
+    background-color: rgb(157, 116, 149);
+
+}
+
+
+.ten{
+    border: 4px solid black;
+    width:1300px;
+    height: 800px;
+    border-radius: 10px;
+    margin-left: 100px;
+}
+.bbbb{
+    font-size: 40px;
+    text-align: center;
+}
+.five{
+    font-size: 25px;
+     
+}
+.seven{
+    font-size: 15px;
+    margin-top: auto;
+}
+.six{
+    border-color: rgb(202, 52, 174);
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+    font-size: 20px;
+}
+.eight{
+   
+    font-size: 15px;
+    color: rgb(9, 9, 9);
+    margin-top:1px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  .button1{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 400px;
+    height: 60px;
+    background-color: rgb(25, 167, 94);
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 450px;
+  }
+  .cccc{
+    border: 4px solid black;
+    width: 700px;
+    height: 900px;
+    border-radius: 10px;
+    margin-left: 400px;
+    background-color: white;
+
+  }
+  .month{
+    border-color: rgb(202, 52, 174);
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+
+  }
+  .year{
+    border-color: rgb(202, 52, 174);
+    border-radius: 10px;
+    width: 100px;
+    height: 40px;
+  }
+  .button2{
+    border: 3px solid black;
+    padding: 10px;
+    margin: 10px;
+    width: 350px;
+    height: 60px;
+    background-color:rgb(25, 167, 94);
+    border-radius: 10px;
+    font-size: 30px;
+    margin-left: 170px;
+  }
+  .dddd{
+    background-color: rgb(157, 116, 149);
+  }
+  .nine{
+    font-size:30px;
+    border: 3px solid black;
+    border-radius: 10px;
+    margin-left: 550px;
+    width:400px;
+    height:230px;
+    
+}
+* {
+    box-sizing: border-box;
+  }
+  
+  footer{
+    background-color:bisque;
+    text-align: center;
+    font-size: 25px;
+    font-family:Arial, Helvetica, sans-serif;
+    height: 450px;
+    color: rgb(19, 179, 179);
+    border: 4px solid black;
+    bottom: 0;
+    width: 100%;
+    left: 0;
+    border-radius: 10px;
+    background-color: #101010;
+  
+  }
+  .book1{
+    font-size: 40px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+  }
+  
+  
+
+.img1{
+    width:400px;
+    height:150px;
+    margin-left: 130px;
+
+   
+
+  }
+ .img2{
+  width:50px;
+  height:50px;
+ }
+
+
+  .dropbtn {
+    margin-right: 1400px;
+    padding: 16px;
+    
+    
+    
+  }
+  
+  
+  .left-section{
+    margin-left: 50px;
+    font-size: 30px;
+}
+.right-section{
+    margin-left: 750px;
+    font-size: 30px;
+}
+/* Create two equal columns that floats next to each other */
+.column {
+  float: left;
+  width: 50%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.legal{
+  margin-top:1px ;
+}
+.row{
+  width:1500px;
+}
+
+
+nav{
+  height: 70px;
+  box-shadow: 0 10px 15px rgba(0,0,0,0.1);
+  border: 3px solid black;
+  background-color: black;
+}
+nav ul{
+  padding: 0;
+  margin:0;
+margin-right: 30px;
+}
+
+nav ul li{
+  position: relative;
+  list-style:none ;
+  display: inline;
+}
+nav ul li a{
+  display: inline;
+  padding: 0 15px;
+  color:white;
+  text-decoration: none;
+  line-height: 50px;
+  font-size: 30px;
+}
+
+nav ul li a:hover{
+  background: blue;
+}
+
+
+
+
+
+
+
+
+
+
+
+  
